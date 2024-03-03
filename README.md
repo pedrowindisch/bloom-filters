@@ -6,8 +6,6 @@
     detalhei um pouco + sobre bloom filters [no meu blog](https://windisch.com.br).
 </details>
 
-<br />
-
 # bloom filters
 
 c#/f# implementation of different types of bloom filters.
