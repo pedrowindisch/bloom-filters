@@ -14,6 +14,8 @@ A implementação dessas estruturas de dados nesse repositório estão sustentad
 
 Esse projeto foi feito com fins de aprendizado; não é preparado para uso em produção.
 
+[[post no meu blog]](https://pedrowindisch.com/posts/bloom-filters-csharp)
+
 <hr />
 
 # bloom filters
@@ -24,7 +26,7 @@ this project was created for learning purposes only. it is not intended to be us
 
 ## what are bloom filters and how should i use them?
 
-i've written about them [at my blog](https://windisch.com.br) (in portuguese).
+i've written about them [on my blog](https://pedrowindisch.com/posts/bloom-filters-csharp) (in portuguese).
 
 <hr />
 
